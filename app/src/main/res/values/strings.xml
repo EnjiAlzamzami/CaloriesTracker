@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Enji_Retake</string>
+    <string name="preference_file_key">com.example.enji_retake.PREFERENCE_FILE_KEY</string>
+
+</resources>
